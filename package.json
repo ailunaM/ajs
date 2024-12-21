@@ -1,0 +1,19 @@
+{
+  "name": "@ailunam/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ailunaM/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ailunaM/ajs/issues"
+  },
+  "homepage": "https://github.com/ailunaM/ajs#readme",
+  "description": ""
+}
